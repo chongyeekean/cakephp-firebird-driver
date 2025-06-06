@@ -4,7 +4,7 @@
     "type": "cakephp-plugin",
     "keywords": [
         "cakephp",
-        "cakephp4",
+        "cakephp5",
         "firebird",
         "database",
         "driver"
